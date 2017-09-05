@@ -1,3 +1,5 @@
+# I pull prices from the French nike running shoe selection and simply plot their distribution 
+
 from lxml import html
 import numpy as np
 import matplotlib.pyplot as plt
